@@ -1,17 +1,11 @@
-- venue: Zaranda Bar
-  location: West Didsbury, Manchester
-  date: 2024-10-25
-  time: "20:00"
-  map_url: https://maps.app.goo.gl/TwtmrtCv5mVxe97m7
-
-- venue: Night + Day Cafe
-  location: Manchester
-  date: 2024-06-06
-  time: "19:00"
-  map_url: https://maps.app.goo.gl/78DszffjSZMziS436 
-
 - venue: Peer hat
   location: Northern Quarter, Manchester
   date: 18-02-2025
   time: "20:00"
   map_url: https://www.skiddle.com/whats-on/Manchester/The-Peer-Hat/
+
+- venue: PaskFest- Fulford Arms
+  location: York
+  date: 2025-02-22
+  time: "16:00"
+  map_url: https://www.google.com/maps/place/Fulford+Arms,+121+Fulford+Rd,+York+YO10+4EX/@53.9472059,-1.07623,17z/data=!3m1!4b1!4m6!3m5!1s0x4879304d7c7c5429:0xd9c1b9303665d42b!8m2!3d53.9472028!4d-1.0736551!16s%2Fg%2F1v93_l5b?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D
